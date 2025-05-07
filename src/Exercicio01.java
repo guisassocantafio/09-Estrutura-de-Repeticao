@@ -19,7 +19,7 @@ public class Exercicio01 {
         }
         while (num1<=num2){
             System.out.print(num1 + " ");
-            num1 = num1+1;
+            num1++;
         }
     }
 }
