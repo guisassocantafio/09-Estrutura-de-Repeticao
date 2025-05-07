@@ -20,5 +20,6 @@ public class Exercicio02 {
             contador++;
         }
         System.out.println("O maior valor é --> "+maior);
+
     }
 }
